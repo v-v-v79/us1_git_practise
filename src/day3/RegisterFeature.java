@@ -5,5 +5,6 @@ public class RegisterFeature {
         System.out.println("Register button");
         System.out.println("User info");
         System.out.println("Apply");
+        System.out.println("Successful message");
     }
 }
